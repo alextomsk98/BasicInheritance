@@ -1,0 +1,7 @@
+D:\трпо практика\laba3 trpo\BasicInheritance\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe.config
+D:\трпо практика\laba3 trpo\BasicInheritance\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe
+D:\трпо практика\laba3 trpo\BasicInheritance\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.pdb
+D:\трпо практика\laba3 trpo\BasicInheritance\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.csprojResolveAssemblyReference.cache
+D:\трпо практика\laba3 trpo\BasicInheritance\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.csproj.CoreCompileInputs.cache
+D:\трпо практика\laba3 trpo\BasicInheritance\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.exe
+D:\трпо практика\laba3 trpo\BasicInheritance\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.pdb
